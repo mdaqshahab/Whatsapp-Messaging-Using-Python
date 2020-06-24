@@ -14,7 +14,7 @@ It also provides a feature to send the same message in repeat mode.
        a. Whom to send the message (Give the absolute name as saved or shown in the chats)
        b. The Message to be send (Type the message you want to send)
        c. The Message Count (Enter the number of times you want the message to be send)
-       d. Final confirmation flag (Just write any ramdom thing to confirm that you have scanned and entered all the data required)
+       d. Final confirmation flag (Just write any random message for confirmation)
 
 Now you are good to go....
 After the message is send you will get a console output as "Success".
